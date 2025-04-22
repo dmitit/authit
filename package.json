@@ -1,0 +1,15 @@
+{
+   "name": "authit",
+   "version": "1.0.0",
+   "description": "CLI Authenticator App",
+   "main": "index.js",
+   "scripts": {
+      "start": "node app.js"
+   },
+   "keywords": [],
+   "author": "dmitit",
+   "license": "MIT",
+   "dependencies": {
+      "otplib": "^12.0.1"
+   }
+}
